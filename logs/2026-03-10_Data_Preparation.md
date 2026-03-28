@@ -1,5 +1,5 @@
 # Data Preparation: Arabidopsis Reference Genome & Indexing
-**Date:** March 10, 2025
+**Date:** March 10, 2026
 **Project:** Plant-Epigenomics-Lab-Log
 
 ## Overview
