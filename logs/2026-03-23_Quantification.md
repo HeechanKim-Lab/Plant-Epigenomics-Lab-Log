@@ -37,7 +37,7 @@ python3 -c "import pandas as pd; df = pd.read_csv('gene_count_matrix.csv', index
 
 **Output:**
 ```text
-              R1-1_WT     R1-9_Cond        R2-1_WT     R2-9_Cond        R3-1_WT     R3-9_Cond
+            R1-1_WT     R1-9_Cond       R2-1_WT     R2-9_Cond       R3-1_WT     R3-9_Cond
 count  3.254000e+04  32540.000000  32540.000000  32540.000000  32540.000000  32540.000000
 mean   1.816885e+03   1864.297203   1923.668562   1898.085218   1853.212938   1934.903042
 std    1.280226e+04   7093.061024   8556.711389   8355.400183   7894.838757   7836.689055
