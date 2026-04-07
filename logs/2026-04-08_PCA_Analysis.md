@@ -18,7 +18,7 @@ Utilized the base `prcomp()` function on the transposed log-CPM matrix. Extracte
 
 ## 📊 Results & Biological Interpretation
 
-![Arabidopsis Root PCA Plot](../assets/at_pcaplot.png)
+![Arabidopsis Root PCA Plot](assets/Arabidopsis Root PCA Plot.png)
 
 * **PC1 (49% Variance):** Successfully captures the primary biological effect. The Wild Type (WT) and Conditioned (Cond) samples cleanly separate along the X-axis, confirming that the epigenetic conditioning induced a massive, systemic transcriptional shift in the roots.
 * **PC2 (18% Variance) & The Outlier:** The Conditioned replicates cluster tightly on the right. However, the Wild Type samples show significant spread along the Y-axis. Specifically, **`R1-1_WT` is a severe outlier**. 
