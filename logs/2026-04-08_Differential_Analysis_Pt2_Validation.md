@@ -26,4 +26,15 @@ Transitioned from the conservative Quasi-Likelihood (QLF) test to the Likelihood
 > nrow(final_sig_genes)
 [1] 865
 ```
-These 865 genes represent the true transcriptomic signature of the Arabidopsis root conditioning and are now ready for Phase 5 (Volcano Plots and Heatmaps).
+
+## 🚨 The Power vs. Purity Trade-off (The 4-Sample Experiment)
+To test if a "perfectly clean" dataset would yield an even sharper signal, a secondary exploratory model was fitted using only the 4 most tightly clustered "ideal" samples (`R2-1_WT`, `R3-1_WT`, `R1-9_Cond`, `R2-9_Cond`).
+
+```R
+# 4-Sample strict QL Test yielded 0 significant genes
+summary(decideTests(qlf_final))
+```
+
+* **Observation:** The test yielded **0 Significant DEGs**.
+* **Statistical Implication (Degrees of Freedom):** With only 4 total samples across 2 groups, the residual degrees of freedom dropped to 2 ($df = n - 2 = 2$). At this threshold, `edgeR` becomes extremely conservative. Without enough replicates to confidently estimate within-group variance, the algorithm heavily penalizes the P-values to prevent false positives.
+* **Conclusion:** The 5-sample model represents the optimal balance. It successfully eliminated the severe technical variance of the initial outlier while maintaining sufficient sample size (3 Cond vs. 2 WT) to preserve statistical power.
