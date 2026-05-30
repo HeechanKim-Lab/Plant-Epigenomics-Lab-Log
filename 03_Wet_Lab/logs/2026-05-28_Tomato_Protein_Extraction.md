@@ -39,13 +39,14 @@ Each experimental group consists of 4 biological replicates across 4 distinct se
 | **Total Volume** | — | **1 mL** | — | **10 mL** | **50 mL** | — |
 
 #### 2. Protein Extraction Standard Operating Procedure (SOP)
-* **Ref 1-1)** Transfer the sample powder into a tube and add 300 µL of extraction buffer.
-    * *Note:* Alternatively, add buffer to the tube first, then add sample and grind. Maintain a powder-to-solution ratio close to 1:1.
-* **Ref 1-2)** Vortex thoroughly to ensure the sample dissolves completely in the buffer.
-* **Ref 1-3)** Centrifuge at 13,000 RPM for 20 minutes at 4°C (up to 30 minutes is acceptable).
-* **Ref 1-4)** Transfer 200 µL of the supernatant into a new microcentrifuge tube.
-    * *Note:* Aliquot 200 µL twice into PCR tubes per sample type and store (ensures sufficient volume for Western blot optimization/practice and high-expression targets).
-* **Ref 1-5)** Measure protein concentration, normalize samples to equal concentrations, aliquot into 20 µL working volumes for Western blotting, and store at -20°C.
+* **1-1)** Transfer the sample powder into a tube and add 300 µL of extraction buffer.
+    * *Note 1-1-1:* Alternatively, you can add the buffer to the tube first, then add the sample and grind it.
+    * *Note 1-1-2:* Keep the ratio of powder to solution close to 1:1.
+* **1-2)** Vortex thoroughly to ensure the sample dissolves completely in the buffer.
+* **1-3)** Centrifuge at 13,000 rpm for 20 minutes at 4°C. (Up to 30 minutes is acceptable).
+* **1-4)** Transfer 200 µL of the supernatant into a new microcentrifuge tube (e-tube).
+    * *Note 1-4-1:* Aliquot 200 µL twice into PCR tubes per sample type and store (done to ensure sufficient sample volume for Western blot practice and in case target protein expression is high).
+* **1-5)** Measure the protein concentration, normalize the samples to equal concentrations, aliquot into 20 µL working volumes for Western blotting, and store at -20°C.
 
 ---
 
