@@ -101,6 +101,7 @@ Each experimental group consists of 4 biological replicates across 4 distinct se
 
 5. **Buffer Addition and Venting**
    * **Immediately** dispensed 100 µL of the pre-made Protein Extraction Cocktail into each pulverized sample tube straight out of the TissueLyser while the tissue was completely frozen, ensuring efficient protein extraction upon thawing.
+   * *Note on Volume Optimization:* While the standard protocol typically requires 100–150 µL of extraction buffer, the volume was strictly limited to 100 µL here due to the relatively small size of the starting tissue samples, maximizing final protein concentration.
    * *Critical Step:* Left the tube caps slightly loose or cracked open while resting in the ice bucket. This allowed venting to prevent caps from popping open violently due to pressure differentials caused by the extreme temperature shift between the liquid nitrogen and the ice.
    ![Venting Extracted Samples on Ice](../assets/venting_on_ice.jpg)
 
