@@ -9,7 +9,7 @@ To track the transgenerational effects of these soil microbiomes/epigenetic fact
 * **F3 generation:** Cultivated without any soil treatments to evaluate inherited phenotypic memory.
 
 ### Experimental Design
-Protein extraction was performed using root samples from the Parent (P) and F3 generations, categorized by the following experimental groups:
+Protein extraction was performed using leaf samples from the Parent (P) and F3 generations, categorized by the following experimental groups:
 * **M3:** MES Buffer control (F3 generation)
 * **B3:** Gijang B soil group (F3 generation)
 * **J3:** Gyeongju soil group (F3 generation)
@@ -22,8 +22,38 @@ Each experimental group consists of 4 biological replicates across 4 distinct se
 
 ## Protocol & Notes
 
+### Reference Protocol
+
+#### 1. Buffer Formulation Reference
+
+| Component | Stock Conc. | Vol. for 1 mL | Final Conc. | Vol. for 10 mL | Vol. for 50 mL | Function |
+| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| **Tris-HCl (pH 7.5)** | 1 M | 20 µL | 20 mM | 200 µL | 1 mL | Buffer (stabilizes protein structure) |
+| **EDTA (pH 8.0)** | 0.5 M | 2 µL | 1 mM | 20 µL | 100 µL | Assists protease inhibitors |
+| **NaCl** | 1 M | 150 µL | 150 mM | 1.5 mL | 7.5 mL | Salt for protein stability |
+| **Triton X-100** | — | 1 µL | 0.1% (v/v) | 10 µL | 50 µL | Detergent (breaks down cell wall/membrane) |
+| **DTT** | 1 M | 5 µL | 5 mM | 50 µL | 250 µL | Reducing agent (prevents disulfide bonding) |
+| **10% SDS** | 0.1 g/mL | 10 µL | 0.1% (w/v) | 100 µL | 500 µL | Detergent (denatures protein 2nd & 3rd structures) |
+| **DW (Distilled Water)** | — | 312 µL | — | 3.12 mL | 15.6 mL | Solvent / Vehicle |
+| **Protease Inhibitor** | 2X | 500 µL | 1X | 5 mL | 25 mL | Protects proteins from degradation |
+| **Total Volume** | — | **1 mL** | — | **10 mL** | **50 mL** | — |
+
+#### 2. Protein Extraction Standard Operating Procedure (SOP)
+* **Ref 1-1)** Transfer the sample powder into a tube and add 300 µL of extraction buffer.
+    * *Note:* Alternatively, add buffer to the tube first, then add sample and grind. Maintain a powder-to-solution ratio close to 1:1.
+* **Ref 1-2)** Vortex thoroughly to ensure the sample dissolves completely in the buffer.
+* **Ref 1-3)** Centrifuge at 13,000 RPM for 20 minutes at 4°C (up to 30 minutes is acceptable).
+* **Ref 1-4)** Transfer 200 µL of the supernatant into a new microcentrifuge tube.
+    * *Note:* Aliquot 200 µL twice into PCR tubes per sample type and store (ensures sufficient volume for Western blot optimization/practice and high-expression targets).
+* **Ref 1-5)** Measure protein concentration, normalize samples to equal concentrations, aliquot into 20 µL working volumes for Western blotting, and store at -20°C.
+
+---
+
+### Bench Execution Log & Deviations
+
+
 1. **Tube Preparation and Labeling**
-   * Prepared 64 $\times$ 1.5 mL microcentrifuge tubes and 64 $\times$ 2.0 mL microcentrifuge tubes.
+   * Prepared 64 × 1.5 mL microcentrifuge tubes and 64 × 2.0 mL microcentrifuge tubes.
    * Labeled each tube clearly with the sample ID followed by a suffix **'p'** to distinguish them from the RNA extraction sets (e.g., `P 1-1 p`, `M3 3-2 p`).
    * Placed a single small, circular glass bead into each of the 64 labeled 2.0 mL tubes for subsequent tissue homogenization.
 
