@@ -1,22 +1,22 @@
 # Tomato RNA Extraction Log (2026-05-29)
 
 ### Background & Project Narrative
-This project investigates the phenotypic variations observed in tomato plants grown across different soil environments, focusing on differences in Shoot Length (SL), Root Length (RL), Fresh Weight (FW), and Dry Weight (DW)[cite: 1]. Clear phenotypic differences were identified in plants grown in Gyeongju (GJ) soil (increased overall volume) and Gijang B (GB) soil (accelerated ripening)[cite: 1]. 
+This project investigates the phenotypic variations observed in tomato plants grown across different soil environments, focusing on differences in Shoot Length (SL), Root Length (RL), Fresh Weight (FW), and Dry Weight (DW). Clear phenotypic differences were identified in plants grown in Gyeongju (GJ) soil (increased overall volume) and Gijang B (GB) soil (accelerated ripening). 
 
-To track the transgenerational effects of these soil microbiomes/epigenetic factors, multi-generation cultivation was conducted[cite: 1]:
-* **Parent generation (P):** Treated with GB or GJ soil[cite: 1].
-* **F1 & F2 generations:** Cultivated under continuous treatment with their respective soils (GB or GJ)[cite: 1].
-* **F3 generation:** Cultivated without any soil treatments to evaluate inherited phenotypic memory[cite: 1].
+To track the transgenerational effects of these soil microbiomes/epigenetic factors, multi-generation cultivation was conducted:
+* **Parent generation (P):** Treated with GB or GJ soil.
+* **F1 & F2 generations:** Cultivated under continuous treatment with their respective soils (GB or GJ).
+* **F3 generation:** Cultivated without any soil treatments to evaluate inherited phenotypic memory.
 
 ### Experimental Design
-RNA extraction was performed using leaf samples from the Parent (P) and F3 generations, categorized by the following experimental groups[cite: 1]:
-* **M3:** MES Buffer control (F3 generation)[cite: 1]
-* **B3:** Gijang B soil group (F3 generation)[cite: 1]
-* **J3:** Gyeongju soil group (F3 generation)[cite: 1]
-* **P:** Untreated control (Parent generation)[cite: 1]
+RNA extraction was performed using leaf samples from the Parent (P) and F3 generations, categorized by the following experimental groups:
+* **M3:** MES Buffer control (F3 generation)
+* **B3:** Gijang B soil group (F3 generation)
+* **J3:** Gyeongju soil group (F3 generation)
+* **P:** Untreated control (Parent generation)
 
 **Sample Grid:** 
-Each experimental group consists of 4 biological replicates across 4 distinct sets (e.g., P group contains replicates P 1-1 through P 4-4)[cite: 1]. 1 complete experimental set comprises 4 distinct samples (P, M3, J3, B3)[cite: 1].
+Each experimental group consists of 4 biological replicates across 4 distinct sets (e.g., P group contains replicates P 1-1 through P 4-4). 1 complete experimental set comprises 4 distinct samples (P, M3, J3, B3).
 
 ---
 
