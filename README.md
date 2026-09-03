@@ -1,8 +1,8 @@
-# Plant-Epigenomics-Lab-Log 🌱
+# Plant-Epigenomics-Lab-Log
 
 This repository serves as a research log for my work as an undergraduate researcher in the Plant Immunity & Epigenetics Laboratory at Dong-A University. It documents my journey into computational biology, specifically focusing on RNA-seq analysis and epigenetic regulation.
 
-## 🧬 Project Overview
+## Project Overview
 Processing **Arabidopsis thaliana** root datasets to master the complete RNA-seq pipeline, from raw reads to biological pathway discovery.
 
 * **Sample Types:** Wild Type (WT) vs. Conditioned (Cond) root samples.
@@ -11,7 +11,7 @@ Processing **Arabidopsis thaliana** root datasets to master the complete RNA-seq
 
 ---
 
-## 🛠️ Part I: Upstream Processing (The Terminal Pipeline)
+## Part I: Upstream Processing (The Terminal Pipeline)
 The foundational data wrangling was executed on an Apple M5 architecture using the "New Tuxedo" protocol.
 
 1.  **Alignment:** `HISAT2` for mapping raw reads to the TAIR10 reference genome.
@@ -20,7 +20,7 @@ The foundational data wrangling was executed on an Apple M5 architecture using t
 
 ---
 
-## 📊 Part II: Downstream Analysis (The R/edgeR Roadmap)
+## Part II: Downstream Analysis (The R/edgeR Roadmap)
 The statistical modeling and visualization phase, executed in RStudio.
 
 ### Phase 1: Environment Setup & Data Integrity
@@ -55,5 +55,5 @@ The statistical modeling and visualization phase, executed in RStudio.
 
 ---
 
-## 🚀 Long-term Vision
+## Long-term Vision
 My ultimate goal is to bridge the gap between physical life phenomena and computational implementation, moving toward **whole-cell simulations**. This repository documents the foundational bioinformatics and statistical modeling skills required to handle that scale of biological data.
