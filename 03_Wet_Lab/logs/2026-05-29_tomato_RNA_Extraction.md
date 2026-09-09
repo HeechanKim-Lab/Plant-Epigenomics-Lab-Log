@@ -198,4 +198,3 @@ Each experimental group consists of 4 biological replicates across 4 distinct se
 17. **Precipitation Mixing and Overnight Storage**
     * Inverted the fully assembled precipitation tubes repeatedly to ensure a completely homogeneous mixture of the RNA supernatant, absolute ethanol, sodium acetate, and glycogen carrier.
     * Transferred all 64 samples into a -20°C freezer for an overnight incubation to maximize the structural precipitation of the final purified RNA.
-
